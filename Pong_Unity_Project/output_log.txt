@@ -1,0 +1,57 @@
+Initialize engine version: 5.1.1f1 (2046fc06d4d8)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1050 (ID=0x1c8d)
+    Vendor:   NVIDIA
+    VRAM:     4021 MB
+Default GameObject Tag: Player already registered
+ 
+(Filename:  Line: 83)
+
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Projetos\PongBala v.2.1 Final\PongBala v.2.1 Final\PongBala v2.1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Projetos\PongBala v.2.1 Final\PongBala v.2.1 Final\PongBala v2.1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Projetos\PongBala v.2.1 Final\PongBala v.2.1 Final\PongBala v2.1_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Projetos\PongBala v.2.1 Final\PongBala v.2.1 Final\PongBala v2.1_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Projetos\PongBala v.2.1 Final\PongBala v.2.1 Final\PongBala v2.1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Projetos\PongBala v.2.1 Final\PongBala v.2.1 Final\PongBala v2.1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Projetos\PongBala v.2.1 Final\PongBala v.2.1 Final\PongBala v2.1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Projetos\PongBala v.2.1 Final\PongBala v.2.1 Final\PongBala v2.1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Projetos\PongBala v.2.1 Final\PongBala v.2.1 Final\PongBala v2.1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Projetos\PongBala v.2.1 Final\PongBala v.2.1 Final\PongBala v2.1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Projetos\PongBala v.2.1 Final\PongBala v.2.1 Final\PongBala v2.1_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Projetos\PongBala v.2.1 Final\PongBala v.2.1 Final\PongBala v2.1_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.064 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 59Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+Platform assembly: D:\Projetos\PongBala v.2.1 Final\PongBala v.2.1 Final\PongBala v2.1_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Projetos\PongBala v.2.1 Final\PongBala v.2.1 Final\PongBala v2.1_Data\Managed\System.dll (this message is harmless)
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1715)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.390726 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 298.
+Total: 0.259282 ms (FindLiveObjects: 0.017868 ms CreateObjectMapping: 0.011669 ms MarkObjects: 0.201664 ms  DeleteObjects: 0.011304 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.111887 ms
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 288.
+Total: 0.337322 ms (FindLiveObjects: 0.072934 ms CreateObjectMapping: 0.007658 ms MarkObjects: 0.234484 ms  DeleteObjects: 0.012398 ms)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1715)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.783316 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 304.
+Total: 0.254906 ms (FindLiveObjects: 0.035373 ms CreateObjectMapping: 0.007658 ms MarkObjects: 0.199111 ms  DeleteObjects: 0.011669 ms)
+
